@@ -1,0 +1,167 @@
+{
+  "project_info": {
+    "project_number": "50915599981",
+    "firebase_url": "https://instructorsapp-66927.firebaseio.com",
+    "project_id": "instructorsapp-66927",
+    "storage_bucket": "instructorsapp-66927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50915599981:android:e4bf06806b009d51",
+        "android_client_info": {
+          "package_name": "com.example.bangadi.instructorapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50915599981-ul8h64ak8156j901mk3gmtl4tgn471jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bangadi.instructorapplication",
+            "certificate_hash": "8aa3c3f6e0c7bb9d00ed82933d65c8d2e7f4de74"
+          }
+        },
+        {
+          "client_id": "50915599981-srj5ri9nrf1acn93dtvs8a2ugq40elvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75fVQPKfqrykgeKSpxfgyT5_yvzyOzMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50915599981-srj5ri9nrf1acn93dtvs8a2ugq40elvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50915599981:android:32590da66a10f6eb",
+        "android_client_info": {
+          "package_name": "com.example.bangadi.instructorsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50915599981-eqdto3u7qvnoamn05f3urcs70mjji3d2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bangadi.instructorsapplication",
+            "certificate_hash": "8aa3c3f6e0c7bb9d00ed82933d65c8d2e7f4de74"
+          }
+        },
+        {
+          "client_id": "50915599981-6rb48u1ntvcshbqs5qji0ous0dredpvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bangadi.instructorsapplication",
+            "certificate_hash": "ca1045a5850a8fe85b1ea9e6b3d6ee2fcdc3a5a9"
+          }
+        },
+        {
+          "client_id": "50915599981-21n489ap30qeov4ort1dbdqm6jcpmcob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bangadi.instructorsapplication",
+            "certificate_hash": "f2594edc2459a37db582ddc69b0ea5fccbc0f6a2"
+          }
+        },
+        {
+          "client_id": "50915599981-bqbbm3jhb3dl8g5mr42k8uq72sfgfj07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bangadi.instructorsapplication",
+            "certificate_hash": "e3cee6b7c729016189ba2065ee8fadc2d8c5ca1a"
+          }
+        },
+        {
+          "client_id": "50915599981-srj5ri9nrf1acn93dtvs8a2ugq40elvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75fVQPKfqrykgeKSpxfgyT5_yvzyOzMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50915599981-srj5ri9nrf1acn93dtvs8a2ugq40elvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50915599981:android:9811ff0c3c8e4fc3",
+        "android_client_info": {
+          "package_name": "com.example.bharg_000.instructorsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50915599981-6ivnq801ih9mcsahehv8t90rmk8b7o3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharg_000.instructorsapplication",
+            "certificate_hash": "7e0108dfb96986f2954d6995ef3750cc3b31e9a2"
+          }
+        },
+        {
+          "client_id": "50915599981-srj5ri9nrf1acn93dtvs8a2ugq40elvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC75fVQPKfqrykgeKSpxfgyT5_yvzyOzMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50915599981-srj5ri9nrf1acn93dtvs8a2ugq40elvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/postImageList"
+            android:adjustViewBounds="true"
+            android:cropToPadding="false"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/add_btn"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/coursenameList"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:hint="Course Name"
+            android:textSize="20sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/courseDescList"
+            android:textStyle="bold"
+            android:padding="10dp"
+            android:hint="Course Description"
+            android:textSize="20sp"/>
+        <Button
+            android:id="@+id/addShowList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="VIEW"
+            android:textAlignment="center"/>
+        <Button
+            android:id="@+id/addRegisterList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ENROLL"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
